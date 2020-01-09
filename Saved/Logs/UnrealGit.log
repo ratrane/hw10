@@ -368,3 +368,42 @@ LogInit: Object subsystem initialized
 [2020.01.09-19.52.18:173][221]SourceControl: Commited [detached HEAD b7cf981] test.
 [2020.01.09-19.53.28:231][997]SourceControl: Source control is disabled
 [2020.01.09-19.53.28:231][997]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.09-19.56.17:161][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.25:147][310]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.09-19.56.30:432][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.39:340][766]LogSlate: Window 'Check Out Assets' being destroyed
+[2020.01.09-19.56.40:804][766]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.01.09-19.56.44:120][766]LogSlate: Window 'Message' being destroyed
+[2020.01.09-19.56.49:148][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.50:691][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.50:751][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.52:210][432]LogSlate: Window 'Check Out Assets' being destroyed
+[2020.01.09-19.56.52:215][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.56.52:258][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.09-19.56.52:299][432]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap65F50A2640E6E67F0111D1A422EBFD90.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap.umap'
+[2020.01.09-19.56.52:307][432]LogFileHelpers: Saving map 'NewMap' took 0.085
+[2020.01.09-19.57.07:696][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.57.07:759][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.57.07:769][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.09-19.57.07:804][939]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap75699EC34C943733BCB695AB923CC1E8.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap.umap'
+[2020.01.09-19.57.09:948][939]LogSlate: Window 'Check Out Assets' being destroyed
+[2020.01.09-19.57.09:951][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.01.09-19.57.09:970][939]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap_BuiltData8412AF3D482B62E27BA59CBE9D57D826.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset'
+[2020.01.09-19.57.11:212][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.57.13:893][401]SourceControl: fatal: C:/D/UE_4.20/Engine/Content: 'C:/D/UE_4.20/Engine/Content' is outside repository
+[2020.01.09-19.57.13:953][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.57.23:303][401]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.09-19.58.21:980][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.58.22:020][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.58.22:030][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.09-19.58.22:067][ 88]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap3F6645144E1A701E16A03E8513ADBBD9.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap.umap'
+[2020.01.09-19.58.22:140][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.01.09-19.58.22:154][ 88]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap_BuiltDataBCE40B81433F89E556A7C18096D77F16.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset'
+[2020.01.09-19.58.39:130][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.58.39:190][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-19.58.39:209][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.09-19.58.39:245][588]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap96BD693143F0C3B9275E4B90A52A052B.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap.umap'
+[2020.01.09-19.58.39:320][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.01.09-19.58.39:334][588]LogSavePackage: Moving '../../../../UE4 Projects/UnrealGit/Saved/NewMap_BuiltData56DE2EEA408F1F15C40B119CB325BAED.tmp' to '../../../../UE4 Projects/UnrealGit/Content/NewMap_BuiltData.uasset'
+[2020.01.09-20.05.41:984][  7]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.09-20.05.41:984][  7]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
